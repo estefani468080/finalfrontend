@@ -1,2 +1,0 @@
-# finalfrontend
-proyecto final frontend
